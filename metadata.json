@@ -1,0 +1,6 @@
+{
+  "name": "NiverSync - Lembretes e Mensagens de Aniversário",
+  "description": "Sistema inteligente integrado ao Google Calendar para detectar aniversários, gerar mensagens personalizadas com IA e enviar por WhatsApp ou E-mail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
