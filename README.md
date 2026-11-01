@@ -203,6 +203,17 @@ npm start
 
 ---
 
+## 💡 Sobre o Projeto & Contribuições
+
+> 🚀 **Nota**: Este projeto é um **protótipo funcional** desenvolvido com o auxílio do **Google AI Studio**, unindo o poder da inteligência artificial generativa (**Gemini 3.8 Flash**) com o ecossistema do Google Workspace e mensageria instantânea.
+
+Sinta-se muito bem-vindo(a) para contribuir! Ideias, sugestões e melhorias são sempre bem-vindas:
+- 💡 **Tem uma ideia ou feedback?** Abra uma [*Issue*](https://github.com/SEU-USUARIO/niversync/issues) para batermos um papo.
+- 🛠️ **Deseja contribuir com código?** Faça um *Fork* do projeto, crie sua *branch* e envie um *Pull Request*.
+- ⭐ Se este projeto foi útil ou inspirador para você, considere deixar uma estrela no repositório!
+
+---
+
 ## 📄 Licença
 
 Este projeto está sob a licença [Apache 2.0](LICENSE).
